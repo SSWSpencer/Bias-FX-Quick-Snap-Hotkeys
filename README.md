@@ -1,4 +1,4 @@
-# VST-Key Auto Hotkeys
+# VST-Key Auto Presets
 Bias FX 2 is an amazing amp with horrible controls, and doesn't allow keyboard shortcuts.
 
 This is a python script that will allow a user to use their keyboard to switch between quick snap presets.
