@@ -9,4 +9,9 @@ This is a python script that will allow a user to use their keyboard to switch b
 - Space Bar: Previous preset (If you are on preset 2, and switch to 6, pressing space will flip between presets 2 and 6)
 - Escape: Disable/Enable hotkey listener (useful for typing something without the hotkey listener clicking elsewhere whenever you press space)
 
+
+Demo: 
+https://youtu.be/8dOL66rjcz0
+
+Download:
 https://www.mediafire.com/file/7cdz5jzqvs2e3ti/VST-Keys.zip/file
