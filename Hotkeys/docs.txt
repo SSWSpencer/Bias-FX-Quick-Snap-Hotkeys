@@ -1,0 +1,27 @@
+Thank you for downloading my program!
+
+I know command line-based software can be scary to a non-developer or someone who isn't familiar with programming, so you can minimize this window and just forget it exists! Just remember to exit out of it after you're done with Bias FX 2, or else you might run into strange behavior!
+
+This is a script I wrote in Python that allows you to switch between Quick Snap presets in Bias FX 2 via keyboard controls. 
+
+This has been tested and works with Bias FX 2 Standalone on Windows 10 on a 1920x1080p monitor. Whether or not it works on other resolutions is unknown at the current time, but if it doesn't work for you please reach out and I will be happy to fix it. 
+
+This is an entirely open-source project, so if you're familiar with Python and would like to improve on my work, change the keybinds, or add any extra functionality, the project is located at https://github.com/SSWSpencer/Bias-FX-Quick-Snap-Hotkeys
+
+
+
+
+
+Controls:
+1-8: Switches between Quick Snap Presets 1-8
+Left Shift: Go backwards 1 preset (7 will go to 6, then 5, and so on)
+Right Shift: Go forwards 1 preset (5 will go to 6, then 7, and so on)
+Space Bar: Return to previous preset (If you go from 2 to 8, this will return you back to 2)
+
+
+
+Important Notes:
+
+-Bias FX 2 must be open and visible on your primary display. (If you are using either a laptop, or a desktop with only one monitor, just make sure Bias FX is open and entirely visible). If you have more than one monitor connected to your computer, just make sure that you've got Bias FX open on your primary display. You can check what your primary display is by right clicking on your desktop > display settings > click on the monitor you use the most > scroll down until you see the box that says "Make this my primary display" and make sure it is checked off
+
+Clicking on a preset will not store it in the memory. So if you're on preset 7, and switch to 2 via your mouse, pressing left shift will switch to preset 6 instead of 1. I'm sure there is a workaround to this, but seeing that it is a pain to put down your pick and use your mouse in the first place, it seems like more work than it's realistically worth. I'm sure it's not too big of an issue for anyone, it's just something to take note of.
